@@ -1,0 +1,12 @@
+/* Imposta il font */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Imposta lo sfondo */
+body {
+  background-color: #f2f2f2; /* Colore di sfondo */
+  ---------------------------------------------------....#########-#-((background-image: url('sfondo.jpg'))); /* Immagine di sfondo */
+  background-repeat: no-repeat; /* Non ripetere l'immagine */
+  background-size: cover; /* Copri l'intera area dello sfondo */
+}
